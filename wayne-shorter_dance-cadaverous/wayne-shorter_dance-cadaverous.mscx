@@ -3,7 +3,7 @@
   <programVersion>4.7.4</programVersion>
   <programRevision></programRevision>
   <Score>
-    <eid>fMEhOo6oqgD_63ukisAieVD</eid>
+    <eid>Y60etol58uP_t6GjClbzWJL</eid>
     <Division>480</Division>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -13,7 +13,7 @@
     <metaTag name="arranger"></metaTag>
     <metaTag name="composer">Wayne Shorter</metaTag>
     <metaTag name="copyright"></metaTag>
-    <metaTag name="creationDate">2026-10-15</metaTag>
+    <metaTag name="creationDate">2026-10-16</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
@@ -25,7 +25,7 @@
     <metaTag name="workTitle">Dance Cadaverous</metaTag>
     <Order id="orchestra">
       <name>Orchestra</name>
-      <instrument id="drum-kit-4">
+      <instrument id="drum-kit-5">
         <family id="drums">Drums</family>
         </instrument>
       <section id="woodwind" brackets="true" barLineSpan="true" thinBrackets="true">
@@ -73,7 +73,7 @@
       </Order>
     <Part id="1">
       <Staff>
-        <eid>WaC5X0Gut+C_qhGm6RgkGPG</eid>
+        <eid>/rv75a3f8t_ckPUvMBY3iJ</eid>
         <StaffType group="percussion">
           <name>perc5Line</name>
           <keysig>0</keysig>
@@ -81,13 +81,22 @@
         <defaultClef>PERC</defaultClef>
         </Staff>
       <trackName>Drum Kit</trackName>
-      <Instrument id="drum-kit-4">
+      <Instrument id="drum-kit-5">
         <longName>Drum Kit</longName>
         <shortName>D. Kit</shortName>
-        <trackName>Drum Kit (minimal)</trackName>
+        <trackName>Drum Kit (common)</trackName>
         <instrumentId>drum.group.set</instrumentId>
         <useDrumset>1</useDrumset>
         <percussionPanelColumns>8</percussionPanelColumns>
+        <Drum pitch="35">
+          <head>normal</head>
+          <line>8</line>
+          <voice>1</voice>
+          <name>Bass Drum 2</name>
+          <stem>2</stem>
+          <panelRow>1</panelRow>
+          <panelColumn>0</panelColumn>
+          </Drum>
         <Drum pitch="36">
           <head>normal</head>
           <line>7</line>
@@ -144,7 +153,7 @@
           <name>Pedal Hi-Hat</name>
           <stem>2</stem>
           <panelRow>1</panelRow>
-          <panelColumn>0</panelColumn>
+          <panelColumn>3</panelColumn>
           </Drum>
         <Drum pitch="46">
           <head>xcircle</head>
@@ -155,6 +164,15 @@
           <shortcut>D</shortcut>
           <panelRow>0</panelRow>
           <panelColumn>3</panelColumn>
+          </Drum>
+        <Drum pitch="47">
+          <head>normal</head>
+          <line>2</line>
+          <voice>0</voice>
+          <name>Low Tom</name>
+          <stem>1</stem>
+          <panelRow>1</panelRow>
+          <panelColumn>6</panelColumn>
           </Drum>
         <Drum pitch="49">
           <head>cross</head>
@@ -170,7 +188,7 @@
           <head>normal</head>
           <line>1</line>
           <voice>0</voice>
-          <name>Tom</name>
+          <name>High Tom</name>
           <stem>1</stem>
           <shortcut>G</shortcut>
           <panelRow>0</panelRow>
@@ -186,6 +204,21 @@
           <panelRow>0</panelRow>
           <panelColumn>5</panelColumn>
           </Drum>
+        <Drum pitch="52">
+          <head>normal</head>
+          <noteheads>
+            <whole>noteheadHeavyXHat</whole>
+            <half>noteheadHeavyXHat</half>
+            <quarter>noteheadHeavyXHat</quarter>
+            <breve>noteheadHeavyXHat</breve>
+            </noteheads>
+          <line>-3</line>
+          <voice>0</voice>
+          <name>China Cymbal</name>
+          <stem>1</stem>
+          <panelRow>1</panelRow>
+          <panelColumn>7</panelColumn>
+          </Drum>
         <Drum pitch="53">
           <head>diamond</head>
           <line>0</line>
@@ -193,7 +226,25 @@
           <name>Ride Bell</name>
           <stem>1</stem>
           <panelRow>1</panelRow>
+          <panelColumn>5</panelColumn>
+          </Drum>
+        <Drum pitch="55">
+          <head>cross</head>
+          <line>-4</line>
+          <voice>0</voice>
+          <name>Splash Cymbal</name>
+          <stem>1</stem>
+          <panelRow>1</panelRow>
           <panelColumn>2</panelColumn>
+          </Drum>
+        <Drum pitch="57">
+          <head>cross</head>
+          <line>-3</line>
+          <voice>0</voice>
+          <name>Crash Cymbal 2</name>
+          <stem>1</stem>
+          <panelRow>1</panelRow>
+          <panelColumn>4</panelColumn>
           </Drum>
         <clef>PERC</clef>
         <singleNoteDynamics>0</singleNoteDynamics>
@@ -208,348 +259,348 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <eid>4gzuqKl79qM_8iYr8rFUd6</eid>
+        <eid>HLfAtbbgTK_8FPDlM4XVYD</eid>
         <Text>
-          <eid>i+T91OFcMmH_aAcuwfZ1GOK</eid>
+          <eid>sDclJqOIHTO_BS4Qh0r7j0P</eid>
           <style>title</style>
           <text>Dance Cadaverous</text>
           </Text>
         <Text>
-          <eid>/cpja7N2PbJ_lgS9vL4pxAM</eid>
+          <eid>GgokNyRVYUK_MSPkj1NnmAL</eid>
           <style>subtitle</style>
           <text>Speak No Evil (1966)</text>
           </Text>
         <Text>
-          <eid>rzgduF2uwvO_vlKg/Ud76GI</eid>
+          <eid>cVnOv+y20/H_OALYiPGTdW</eid>
           <style>composer</style>
           <text>Wayne Shorter</text>
           </Text>
         </VBox>
       <Measure>
-        <eid>vMToNsbsHLF_1ytleGAqHkG</eid>
+        <eid>QwQhfH8ez2M_9gwWl6JlXSC</eid>
         <voice>
           <KeySig>
-            <eid>XolB80RDgKP_bV61c+ieWrI</eid>
+            <eid>EAWlqvFBX/O_0vKotG+u5GG</eid>
             <custom>1</custom>
             <mode>none</mode>
             </KeySig>
           <TimeSig>
-            <eid>uLdPAqtITjH_Zph7hgICS3N</eid>
+            <eid>IRPEHxPjs1P_i5VfGIjde3G</eid>
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Rest>
-            <eid>/hMuKrbsiKN_PlGuVgIPJPM</eid>
+            <eid>uZtcf3ESY4O_ZcrzAft/CT</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>Rr40Ev8X77J_zfBDE7bo6nB</eid>
+        <eid>HVYHNczz1UD_bXD7CO8gwEF</eid>
         <voice>
           <Rest>
-            <eid>7srdEaZoneB_9Q1rFJB2G+E</eid>
+            <eid>M7UpxUgQOvE_jw670IeZSEH</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>nqN5TqqY2CL_VnL+NQAX+/I</eid>
+        <eid>AJhj0Gd+GfG_eYx3Okiud2G</eid>
         <voice>
           <Rest>
-            <eid>yn8rw1VCndN_VZNRSNRU0UD</eid>
+            <eid>JTi7ni3jefF_ZsVGFvig88B</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>Mau2C+0wxpH_AWHCnuJ8LUH</eid>
+        <eid>cahxvWs0lOH_Va1V7t1kSzG</eid>
         <voice>
           <Rest>
-            <eid>0ywpK0cBbpB_s4q4z1MJFQE</eid>
+            <eid>r+8FCgomd0G_gafFMaTimKO</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>EufN5YMXllI_CIFFON2VMxD</eid>
+        <eid>Xqtsoo4RIHI_2eTKbPQeUVM</eid>
         <voice>
           <Rest>
-            <eid>i5YJmkp+8/_KsDkdqkglmH</eid>
+            <eid>9gfX0Pz06LJ_VFJkK4dlIQE</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>KRU3WW7N5kK_jRDiid0L8kC</eid>
+        <eid>mZtiNLxuRvB_pgk6rji6swK</eid>
         <voice>
           <Rest>
-            <eid>NUA1PuPSWcF_A97d2d6ClhM</eid>
+            <eid>vYMi2w+eQmO_rvUb5is9b/C</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>AGpTysePfnJ_tzGdrVyDhiL</eid>
+        <eid>8d1JT+/JPRN_UHBRIg1IFMI</eid>
         <voice>
           <Rest>
-            <eid>nKFsvMKe18D_GFWp5szPT2C</eid>
+            <eid>ClnQNgtkmpL_kntSubpq3dI</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>WwemSF0VQCG_0YS3BLlfcUB</eid>
+        <eid>yHeclz+B3D_J81zHPIC4lF</eid>
         <voice>
           <Rest>
-            <eid>fCPE2Zw9ZfG_+CDqLE1SgS</eid>
+            <eid>W4wM4brd/hP_dlmBktFudKJ</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>F4wUkW6f20C_sZSOXeuhX7I</eid>
+        <eid>l6NULT0UInC_42IYWnrIRRL</eid>
         <voice>
           <Rest>
-            <eid>5rb/LS25qgO_DdK3/8ednpI</eid>
+            <eid>7gdt/9Im4hK_2Gtc363XGmE</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>S4tK0/O8syL_Oq1OFgGo/tH</eid>
+        <eid>RQFeWbXQ5gD_D0fJ5m/vyHE</eid>
         <voice>
           <Rest>
-            <eid>vZL4iqM3gOO_bxjNTRSqbfH</eid>
+            <eid>XFFvGUVK3nO_D57hV7uPjzJ</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>ZXE4oXfafCJ_nvFiAikiJkP</eid>
+        <eid>ENI/B4TMZtI_pvSNQRjyV2M</eid>
         <voice>
           <Rest>
-            <eid>m3qRre04mxO_RhBDOYq6yPP</eid>
+            <eid>OCgiILjcZvK_zuO7URhPm1C</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>/4yuQTp2inM_6Bg3Q/2v4EH</eid>
+        <eid>AP08EKMrXnH_YYRqgPrM6KF</eid>
         <voice>
           <Rest>
-            <eid>dLhbgdjsUx_mDlgUzVSnSI</eid>
+            <eid>lLu/srXE2R_PSjtUzQTx7C</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>lwK5DLPgAW_1NCvFYU1VwC</eid>
+        <eid>4/6aOOr+TkB_01gtSotb3h</eid>
         <voice>
           <Rest>
-            <eid>Mi2yCa9+E9O_a3dwMaJgeCP</eid>
+            <eid>DdBSh4Vj+AO_o6oUSlEKKNK</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>iCXodDrD8ZF_ccTIyBIJGyK</eid>
+        <eid>FIq32uE7St_1CPLBxP5cdD</eid>
         <voice>
           <Rest>
-            <eid>6JtiY+ZyKzM_hDm9htq4QTP</eid>
+            <eid>7k/lZq9iw0B_c7YNbgCj//D</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>oAaaVQZNGDB_416O2rQrI9D</eid>
+        <eid>A9ZDhfogpfF_bsHwb1Fd9MO</eid>
         <voice>
           <Rest>
-            <eid>1fEOsUDd57D_vrb1ORyol</eid>
+            <eid>Oy8JpQXlv6I_BqdLrAj44zC</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>ncilNJbtFgL_88d1t/2Bb1F</eid>
+        <eid>PUy/wrYnVsI_QQhC+1Xg72J</eid>
         <voice>
           <Rest>
-            <eid>7r/pvLAOPCF_WUsIF8smggB</eid>
+            <eid>YLFKuGdFTk_cyAoOQxOs5M</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>6cHD3fG+onK_emlsZ92S/C</eid>
+        <eid>4pWIzHg3KSD_pmUKUcJlQqC</eid>
         <voice>
           <Rest>
-            <eid>u7jUXp5gu1M_wUuj5jTbKY</eid>
+            <eid>BNEUXEXQiKC_aI3phZQ6BDN</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>mhVPjgnP1BO_d4SbV/e1cuO</eid>
+        <eid>XsRkhvkVe8O_w8Hu0TnhC3N</eid>
         <voice>
           <Rest>
-            <eid>MictQM59HHL_yWQsWFTfIcJ</eid>
+            <eid>P7jP4OmxtCI_FbtZ/Q8OBHN</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>vVe2CelXreD_EdBiuJWGEKK</eid>
+        <eid>KlvC4s2SLyP_Gf+SmRGQGvN</eid>
         <voice>
           <Rest>
-            <eid>NBQ50jnAW8K_l8wfKAFngXF</eid>
+            <eid>Modzo2z8ZmP_o0FAY2mm+LF</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>IEe16Y9qbyJ_UJdzeSgsIsF</eid>
+        <eid>t4DlnvKGmzC_lZaQXXdhtcF</eid>
         <voice>
           <Rest>
-            <eid>kpv/Gdh2r6E_Yg8EW55mmZG</eid>
+            <eid>t2G8nzMd6yK_qx9upW7ibZE</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>puVE3HslA6J_8u8f1Lwvd2P</eid>
+        <eid>E65qRSZRXVM_RatY8eYIbLF</eid>
         <voice>
           <Rest>
-            <eid>CyOeORDjp3B_B3TpjZgrHrB</eid>
+            <eid>aJfXgc4A9HC_uAX/4yruqKJ</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>MwSNrpa/LCH_otj/0AK+JNE</eid>
+        <eid>3i2dONERkKH_SdeClaJC1LK</eid>
         <voice>
           <Rest>
-            <eid>zDGFP+s9v1K_N+BpY6Q/UzE</eid>
+            <eid>66eL4Gic0Z_+G7HnCFyGtN</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>gmL46iO11eB_15i+GufGtkP</eid>
+        <eid>4Bq+yhHcZMM_uw7xQIIumWK</eid>
         <voice>
           <Rest>
-            <eid>j8eLqzJY4E_ecMfGraWqcH</eid>
+            <eid>EvDQapRBM2P_XRomXqbJtFK</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>Cv9gSWxFZaL_y6gbkqJAv5</eid>
+        <eid>HKdM8tN1nrP_NObg+7+KDdI</eid>
         <voice>
           <Rest>
-            <eid>StGwrHskBoF_YjEDbIlqg4P</eid>
+            <eid>B9ZMtGVBcOM_+wvmCU2iBtJ</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>QvRDzOvN6OD_VLI61LcWZKL</eid>
+        <eid>jTxcCiTiZbE_TIBNqdyiSuM</eid>
         <voice>
           <Rest>
-            <eid>Ic0AqSxN98K_BGh3Fggc8PE</eid>
+            <eid>W/Jl1Y2qWQG_MJ+zFlOhPBM</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>l4hXWW/hHVG_Y1m3h8TtPVO</eid>
+        <eid>ihuVzYGlmiC_u6RUz8oVzvL</eid>
         <voice>
           <Rest>
-            <eid>7Qu3/wliwxJ_rS5ZMnykQZG</eid>
+            <eid>QLvwjEoT7bF_A/SDCWKAAaG</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>nBDzubA2XOP_Mxas5OGXs8F</eid>
+        <eid>ixE15a1U7gJ_CTuSfS4T60J</eid>
         <voice>
           <Rest>
-            <eid>1y9RYoRNiXD_hmDbbwiHYsN</eid>
+            <eid>a3Kc1IFlb8M_qdALHeEA6wB</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>ugDL2yTdW9_4ergJhJNnQO</eid>
+        <eid>IjGvlPXwZgI_Zybza9OQJfO</eid>
         <voice>
           <Rest>
-            <eid>sA3EW5+WYAE_beAGf+5x9KD</eid>
+            <eid>SPwI02FuIrD_soTMoyiI/QD</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>71Mf+6taD6B_vD6rgezcmzB</eid>
+        <eid>rExjKHgzyVK_D79Y/GqQcFJ</eid>
         <voice>
           <Rest>
-            <eid>B26+kGeLYfC_8wEhhM9SnJN</eid>
+            <eid>5Ah3rko7++G_Kqe27Far/5K</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>hyOAaF7mEP_is9ujkhygeB</eid>
+        <eid>W3DsZIwXk/E_1UXJ3LdVa5F</eid>
         <voice>
           <Rest>
-            <eid>VpO0kzXs17H_llM4tzXGjDB</eid>
+            <eid>8qiQ8uFPqXC_h0S5kt/Ec4N</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>MfQ4f2JWmWK_+kkm7iFLuuI</eid>
+        <eid>sdc+95tT5GH_RxBJ4kFrPsC</eid>
         <voice>
           <Rest>
-            <eid>rGLwPbmOfJ_dIMlfKc7Nr</eid>
+            <eid>vBuDpAKJeDB_CRCn4EiMmOP</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <eid>iGPOdd9kohN_Rwh5e/hhH+</eid>
+        <eid>wIAc33/SBpK_mVgU++mKUUK</eid>
         <voice>
           <Rest>
-            <eid>OZWifAtWK8O_+a+skFbFazG</eid>
+            <eid>aijGzylWYmI_6qK1HC9tzNH</eid>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
